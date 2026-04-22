@@ -22,3 +22,4 @@ The anisotropic model produces more realistic and stable motion, but it adds mor
 It depends on velocity, so if particles are moving very slowly, the directional effect is weaker. 
 It also introduces an extra parameter (β), which needs to be tuned. The isotropic model is simpler
 and easier to implement, but it can behave less realistically in crowded situations.
+# cse5280-space-carving-vborrelli2022-cmonigle2022-kgibson2021
