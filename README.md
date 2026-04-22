@@ -23,3 +23,4 @@ It depends on velocity, so if particles are moving very slowly, the directional 
 It also introduces an extra parameter (β), which needs to be tuned. The isotropic model is simpler
 and easier to implement, but it can behave less realistically in crowded situations.
 # cse5280-space-carving-vborrelli2022-cmonigle2022-kgibson2021
+# cse5280-space-carving-vborrelli2022-cmonigle2022-kgibson2021
